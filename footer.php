@@ -166,6 +166,36 @@ do_action( 'lucida_after_content' );
 }
 // If we get this far, we have widgets. Let do this.
 ?>
+<section class="section-delivery">
+	<div class="container">
+		<div class="section-delivery_row">
+			<div class="section-delivery-item">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-1.jpg" alt="">
+			</div>
+			<div class="section-delivery-item">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-2.jpg" alt="">
+			</div>
+			<div class="section-delivery-item">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-3.jpg" alt="">
+			</div>
+			<div class="section-delivery-item">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-4.jpg" alt="">
+			</div>
+			<div class="section-delivery-item">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-5.jpg" alt="">
+			</div>
+			<div class="section-delivery-item">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-6.jpg" alt="">
+			</div>
+			<div class="section-delivery-item">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-7.jpg" alt="">
+			</div>
+			<div class="section-delivery-item">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-8.jpg" alt="">
+			</div>
+		</div>
+	</div>
+</section>
 <footer id="colophon" class="site-footer" role="contentinfo">
 	<div id="supplementary" <?php lucida_footer_sidebar_class(); ?>>
 		<div class="wrapper">
@@ -190,7 +220,7 @@ do_action( 'lucida_after_content' );
 	</div><!-- #supplementary -->
 	<div id="site-generator">
 		<div class="wrapper">
-			<div id="footer-content" class="copyright">Copyright © 2019 ДИПЛОМЫ, СПРАВКИ, ДОКУМЕНТЫ ПОД ЗАКАЗ +7 (499) 229-77-55. All Rights Reserved.</div>			
+			<div id="footer-content" class="copyright">Copyright © 2023 ДИПЛОМЫ, СПРАВКИ, ДОКУМЕНТЫ ПОД ЗАКАЗ +7 (499) 229-77-55. All Rights Reserved.</div>			
 		</div><!-- .wrapper -->
 	</div>
 

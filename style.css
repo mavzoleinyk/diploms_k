@@ -4278,3 +4278,29 @@ div.wpcr3_review blockquote.wpcr3_content p{
 
 /** MMM **/
 
+/* Custom STYLE 2023 */
+.wpcf7 input[type=text], .wpcf7 input[type=tel], .wpcf7 input[type=email], .wpcf7 select{
+	margin-bottom: 2rem;
+	border: 1px solid #ec892d;
+}
+
+.popup .wpcf7-submit{
+	margin: 0 auto;
+    display: block;
+    background-color: #ec892d;
+}
+.section-delivery{
+	padding: 3rem 0;
+}
+.section-delivery_row{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.section-delivery-item{
+	text-align: center;
+}
+.section-delivery-item img{
+	max-width: 50%;
+}
