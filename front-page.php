@@ -324,6 +324,27 @@ right:50px;
             </div>
         </div>
     </div>
+    <section class="section-action">
+        <div class="container">
+            <div class="intro__item">
+                <div class="intro__icon">
+                    <div class="intro__subtitle">
+                        <div class="intro__title">Акции и скидки:</div>
+                            <ul>
+                                <li class="intro__tab" >При повторной покупке предоставляется скидка 2 тысячи рублей;</li>
+                                <li class="intro__tab" >Скидка для именинников – 1 тысяча рублей. Действует в день рождения, а также 3 дня после него и 3 дня до дня рождения;</li>
+                                <li class="intro__tab" >При покупке одного и более документов – скидка 2 тысячи рублей с каждого.</li>
+                            </ul>
+                            <div style="margin-top:30px;">
+                                <a class="header__btn" style="background: #EC892D;color:#fff; margin:0!important;" href="/shop/">Каталог документов</a>
+                            </div>
+                        </div>
+                        <div class="intro__img2"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/intro_icon2.jpg" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <div class="otzyv">
         <div class="container">
@@ -337,6 +358,27 @@ right:50px;
             </div>
         </div>
     </div>
+    <section class="section-team">
+        <div class="container">
+            <div class="team-row">
+                <div class="team-item">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/manager-1.jpg" alt="Консультант по продажам Олег - фото">
+                    <div class="title">Консультант по продажам</div>
+                    <div class="name">Олег</div>
+                </div>
+                <div class="team-item">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/manager-2.jpg" alt="Консультант по продажам Алексей - фото">
+                    <div class="title">Консультант по продажам</div>
+                    <div class="name">Алексей</div>
+                </div>
+                <div class="team-item">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/manager-3.jpg" alt="Консультант по продажам Владимир - фото">
+                    <div class="title">Консультант по продажам</div>
+                    <div class="name">Владимир</div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <div class="what">
         <div class="cotainer">

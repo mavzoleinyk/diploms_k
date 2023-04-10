@@ -41,6 +41,24 @@
                     'link_after'   	=> '</span>',
 				) );
 			?>
+			    <div class="what">
+					<div class="cotainer">
+						<div class="otzyv__title">Часто задаваемые вопросы</div>
+						<?php custom_category_description(); ?>
+					</div>
+				</div>
+				<div class="otzyv">
+				<div class="container">
+					<div class="otzyv__title">Отзывы наших клиентов</div>
+					<?php echo do_shortcode( '[rt-testimonial id="11339" title="Категории"]' ) ?>
+
+					<div class="star__sss" >
+						<img src="images/star sss.png" alt="">
+						<img src="images/star__sssser (1).png" alt="">
+						<img src="images/star__sssser (1).png" alt="">
+					</div>
+				</div>
+			</div>
 		</div><!-- .entry-content -->		
 		<?php edit_post_link( esc_html__( 'Edit', 'lucida' ), '<footer class="entry-footer"><span class="edit-link">', '</span></footer>' ); ?>
 	</div><!-- .entry-container -->

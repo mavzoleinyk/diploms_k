@@ -425,6 +425,12 @@ font-size: 15px;
   max-width: 724px;
   height: 389px;
 }
+.intro__img2 {
+  background: url(../images/intro__icon2.jpg) center no-repeat;
+  width: 100%;
+  max-width: 724px;
+  height: 389px;
+}
 
 /* ingroup */
 
@@ -990,6 +996,12 @@ font-size: 15px;
 
 .star__sss:first-child {
   background-color: #c4c4c4;
+}
+
+/* Team */
+.team-row{
+	display: flex;
+	justify-content: space-between;
 }
 
 /* what */

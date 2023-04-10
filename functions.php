@@ -52,6 +52,115 @@ function mw_faqhook_post_1680094812314() {
 	} 
 add_action("wp_head", "mw_faqhook_post_1680094812314");
 
+add_action( 'woocommerce_archive_description', 'custom_category_description', 2 );
+
+function custom_category_description() {
+   if ( is_product_category() ) {
+      echo '<div id="accordion" class="accordion" style="width: 100%; max-width: 670px; margin: 0 auto 115px;">
+	  <div class="accordion__item">
+	  <div class="accordion__header">
+		  Ваша компания предоставляет какие-либо гарантии?
+	  </div>
+	  <div class="accordion__body">
+		  <div class="accordion__content">
+		  Наша компания не требует предоплату, платить нужно уже по факту получения документа. Поэтому мы никуда не исчезнем, получив деньги. Мы изготавливаем правдоподобные документы об образовании, которые трудно отличить от настоящих и работает как можно быстрее.
+		  </div>
+	  </div>
+	  </div>
+	  <div class="accordion__item">
+	  <div class="accordion__header">
+		  Как заказать диплом у вас?
+	  </div>
+	  <div class="accordion__body">
+		  <div class="accordion__content">
+			  Сделать это просто. Достаточно позвонить нам по телефону, который указан в шапке сайта или оформить заказ, нажав специальную кнопку.
+		  </div>
+	  </div>
+	  </div>
+	  <div class="accordion__item">
+	  <div class="accordion__header">
+		  Сколько стоит заказать диплом у вас?
+	  </div>
+	  <div class="accordion__body">
+		  <div class="accordion__content">
+		  Все зависит от конкретного документа. На нашем сайте указана стоимость каждого отдельного диплома.
+		  </div>
+	  </div>
+	  </div>
+	  <div class="accordion__item">
+		  <div class="accordion__header">
+		  Сколько времени займет изготовление диплома и доставка?
+		  </div>
+		  <div class="accordion__body">
+		  <div class="accordion__content">
+		  Изготовление документа займет порядка 2 дней. А вот время доставки зависит от удаленности места, куда эту доставку нужно осуществить. Уточняйте этот вопрос у менеджера.
+		  </div>
+		  </div>
+	  </div>
+	  <div class="accordion__item">
+		  <div class="accordion__header">
+		  Могут ли проверить диплом на подлинность?
+		  </div>
+		  <div class="accordion__body">
+		  <div class="accordion__content">
+		  Это возможно. Но если обладатель диплома будет показывать реальные навыки и хорошие знания в своей профессии, скорее всего, у работодателя не возникнет сомнений в его квалификации. Именно поэтому рекомендуем выбирать дипломы тех специальностей, в которых вы разбираетесь.
+		  </div>
+		  </div>
+	  </div>
+	  <div class="accordion__item">
+		  <div class="accordion__header">
+			  Я могу выбрать университет, который будет записан в дипломе?
+		  </div>
+		  <div class="accordion__body">
+		  <div class="accordion__content">
+			  Конечно. Вы сможете выбрать любые параметры получаемого документа об образовании: год выдачи, оценки, специальность.
+		  </div>
+		  </div>
+	  </div>
+	  <div class="accordion__item">
+		  <div class="accordion__header">
+		  В дипломе есть опечатки. Что делать?
+		  </div>
+		  <div class="accordion__body">
+		  <div class="accordion__content">
+			  Если вы нашли опечатки или любые другие ошибки в дипломе, обращайтесь к нам и мы быстро и бесплатно исправим опечатки, предоставим вам верный вариант.
+		  </div>
+		  </div>
+	  </div>
+	  <div class="accordion__item">
+		  <div class="accordion__header">
+		  Есть диплом, но потерял вкладыш. Можно ли заказать только приложение к диплому?
+		  </div>
+		  <div class="accordion__body">
+		  <div class="accordion__content">
+		  Да, конечно. Но нам понадобится фото вашего диплома для соответствия.
+		  </div>
+		  </div>
+	  </div>
+	  <div class="accordion__item">
+		  <div class="accordion__header">
+		  Я живу в Иркутске. Вы сможете доставить диплом сюда?
+		  </div>
+		  <div class="accordion__body">
+		  <div class="accordion__content">
+		  Да, мы доставляем документы во все регионы страны.
+		  </div>
+		  </div>
+	  </div>
+	  <div class="accordion__item">
+		  <div class="accordion__header">
+		  Нужно ли выбирать тему дипломной самому?
+		  </div>
+		  <div class="accordion__body">
+		  <div class="accordion__content">
+		  Если у вас есть такое желание, вы можете сами выбрать тему дипломной работы, которая будет указана в документе об образовании. Но в противном случае, наш коллектив самостоятельно выберет подходящую тему.
+		  </div>
+		  </div>
+	  </div>
+  </div>';
+   }
+}
+
 
 
 /** function output_calc_after_the_content( $content ) {	
