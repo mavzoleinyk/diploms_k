@@ -4304,3 +4304,18 @@ div.wpcr3_review blockquote.wpcr3_content p{
 .section-delivery-item img{
 	max-width: 50%;
 }
+
+/* Vuz */
+.section-vuz{
+	margin-bottom: 70px;
+}
+.vuz-row{
+	display: flex;
+	justify-content: space-between;
+}
+.vuz-item{
+	text-align: center;
+}
+.vuz-img{
+	margin-bottom: 10px;
+}

@@ -387,6 +387,9 @@ font-size: 15px;
   border-radius: 15px;
   margin-bottom: 55px;
 }
+.intro__icon.color_one{
+  background-color: #02aeee;
+}
 
 .intro__subtitle {
   margin-left: 125px;
@@ -426,10 +429,11 @@ font-size: 15px;
   height: 389px;
 }
 .intro__img2 {
-  background: url(../images/intro__icon2.jpg) center no-repeat;
+  background: url(images/intro__icon2.png) center no-repeat;
   width: 100%;
-  max-width: 724px;
-  height: 389px;
+  max-width: 750px;
+  height: 100%;
+  border-radius: 0 15px 15px 0;
 }
 
 /* ingroup */
@@ -909,6 +913,9 @@ font-size: 15px;
 }
 
 /* otzyv */
+.otzyv{
+  margin-bottom: 70px;
+}
 
 .otzyv__title {
   font-family: "Futura PT";
@@ -996,6 +1003,57 @@ font-size: 15px;
 
 .star__sss:first-child {
   background-color: #c4c4c4;
+}
+
+/* Number */
+.hed.section-number{
+  border-radius: 15px;
+  overflow: hidden;
+  margin-bottom: 70px;
+}
+.section-number{
+  background: url(images/intro__bg1.jpg) center no-repeat;
+}
+.section-number .hed__inner{
+  padding: 150px 50px;
+  margin-bottom: 0;
+  max-width: 50%;
+}
+.section-number .hed__title{
+  color: #fff;
+}
+.section-number .hed__text{
+  color: #fff;
+}
+
+/* Advanteg */
+.adv{
+  margin-bottom: 70px;
+}
+.adv-item{
+  flex: 1 0 33%;
+}
+.adv-item .title{
+  text-align: center;
+}
+.adv__inner{
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Fishka */
+.fishka__row{
+  display: flex;
+  padding: 50px 30px;
+  background-color: #ec892d;
+  border-radius: 15px;
+  color: #fff;
+  margin: 0 -20px;
+}
+.fishka-item{
+  flex: 1;
+  margin: 0 20px;
+  text-align: center;
 }
 
 /* Team */

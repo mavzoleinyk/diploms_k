@@ -327,7 +327,7 @@ right:50px;
     <section class="section-action">
         <div class="container">
             <div class="intro__item">
-                <div class="intro__icon">
+                <div class="intro__icon color_one">
                     <div class="intro__subtitle">
                         <div class="intro__title">Акции и скидки:</div>
                             <ul>
@@ -339,23 +339,123 @@ right:50px;
                                 <a class="header__btn" style="background: #EC892D;color:#fff; margin:0!important;" href="/shop/">Каталог документов</a>
                             </div>
                         </div>
-                        <div class="intro__img2"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/intro_icon2.jpg" alt=""></div>
+                        <div class="intro__img2"></div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
+    <section class="hed">
+        <div class="container">
+            <div class="hed__inner">
+                <div class="hed__text">
+                    Мы работаем почти во всех регионах России и изготавливаем документы на бланке ГОЗНАК. Не требуем предоплаты – полная оплата нашей работы только после того, когда получите документ.
+                </div>
+                <div class="hed__text">
+                    У нас работают профессионалы, которые изготавливают документы, на внешний вид сложно отличимые от оригинала. Гарантируем своим клиентам конфиденциальность.
+                </div>
+                <div class="hed__title">Обратите внимание!</div>
+                <div class="hed__text">
+                    Диплом могут проверить на оригинальность. Если вы опасаетесь такого развития событий, выбирайте дипломы ВУЗов, техникумов и колледжей, которые были ликвидированы, закрыты или лишены аккредитации. Также хорошим решением будет покупка документов об образовании учебных заведений с утраченными архивами.  
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="hed section-number">
+        <div class="container">
+            <div class="hed__inner">
+                <div class="hed__title">На сегодняшний день наша компания продала 2856 документов об образовании:</div>
+                <div class="hed__text">
+                    <ul>
+                        <li><span>1589</span> дипломом бакалавра;</li>
+                        <li><span>1233</span> дипломов магистра;</li>
+                        <li><span>862</span> аттестатов;</li>
+                        <li><span>722</span> других документов;</li>
+                    </ul>  
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section-vuz">
+        <div class="container">
+            <div class="vuz-row">
+                <div class="vuz-item">
+                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/rggu.jpg" alt=""></div>
+                    <div class="title">РГГУ</div>
+                </div>
+                <div class="vuz-item">
+                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/rudn.jpg" alt=""></div>
+                    <div class="title">РУДН</div>
+                </div>
+                <div class="vuz-item">
+                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/misis.jpg" alt=""></div>
+                    <div class="title">МИСиС</div>
+                </div>
+                <div class="vuz-item">
+                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/mgtu.jpg" alt=""></div>
+                    <div class="title">МГТУ</div>
+                </div>
+                <div class="vuz-item">
+                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/madi.jpg" alt=""></div>
+                    <div class="title">МАДИ</div>
+                </div>
+                <div class="vuz-item">
+                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/mgu.jpg" alt=""></div>
+                    <div class="title">МГУ</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="adv">
+        <div class="container">
+            <div class="hed__title">Преимущества работы с нами:</div>
+            <div class="adv__inner">  
+                <div class="adv-item">
+                    <div class="adv-img">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/adv-icon-1.png" alt="">
+                    </div>
+                    <div class="title">Мы изготавливаем документы на бланке ГОЗНАК</div>
+                </div> 
+                <div class="adv-item">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/adv-icon-2.png" alt="">
+                    <div class="title">Не требуем предоплату. Полная оплата – только по факту получения документа</div>
+                </div>  
+                <div class="adv-item">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/adv-icon-3.png" alt="">
+                    <div class="title">Действует доставка по территории России</div>
+                </div>  
+            </div>
+        </div>
+    </section>
+    <section class="hed section-fishka">
+        <div class="container">
+            <div class="hed__title">В чем фишка?</div>
+            <div class="fishka__row">
+                <div class="fishka-item">
+                    <div class="fishka-img">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/fishka-1.png" alt="">
+                    </div>
+                    Дипломы учебных заведений, которые были лишены государственной аккредитации. ВУЗы, колледжи, техникумы и другие учебные заведения без аккредитации не попадают в базу ФС по надзору в сфере образования и науки
+                </div>
+                <div class="fishka-item">
+                    <div class="fishka-img">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/fishka-2.png" alt="">
+                    </div>
+                    Дипломы ликвидированных учебных заведений. Это затруднит проверку диплома на подлинность. Работодатель не сможет отправить запрос на подтверждение диплома в то место, где он был выдан
+                </div>
+                <div class="fishka-item">
+                    <div class="fishka-img">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/fishka-3.png" alt="">
+                    </div>
+                    Большая база по тем учебным заведениям, которые потеряли свои архивы. Университеты, колледжи и техникумы с потерянными архивами не смогут предоставить работодателю нужную информацию на его запрос
+                </div>
+            </div>
+        </div>
+    </section>
     <div class="otzyv">
         <div class="container">
             <div class="otzyv__title">Отзывы наших клиентов</div>
 			<?php echo do_shortcode( '[rt-testimonial id="9614" title="Testimonials"]' ) ?>
-
-            <div class="star__sss" >
-                <img src="images/star sss.png" alt="">
-                <img src="images/star__sssser (1).png" alt="">
-                <img src="images/star__sssser (1).png" alt="">
-            </div>
         </div>
     </div>
     <section class="section-team">
