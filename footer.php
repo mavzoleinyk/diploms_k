@@ -49,12 +49,12 @@ do_action( 'lucida_after_content' );
             <div class="asat__inner">
                 <div class="asat__icon fotostar">
 					<a href="/video-vseh-nashih-dokumentov/">
-						<img src="/wp-content/uploads/2022/11/image-10.png" alt="">
+						<img src="/wp-content/uploads/2022/11/image-10.png" alt="Видео подлинных документов для заказа онлайн с доставкой">
 					</a>    
 				</div>
                 <div class="asat__icon col">
 					<a href="/kupit-diplom-zakaz-moskve/">
-                    	<img class="im_student1" src="/wp-content/uploads/2022/11/delivery-man-1.png" alt="">
+                    	<img class="im_student1" src="/wp-content/uploads/2022/11/delivery-man-1.png" alt="Оплата при получении оригинального документа">
                     	<div class="asat__block">
                     	    <div class="asat__title1" style="font-weight:bold;">ЛЮБЫЕ ВАРИАНТЫ ОПЛАТЫ </div>
                     	    <div class="asat__text" style="font-weight:bold;">оплата при получении</div>
@@ -63,7 +63,7 @@ do_action( 'lucida_after_content' );
 				</div>
                 <div class="asat__icon lg">
                     <a href="/spisok-vuzov-moskvy/">
-						<img class="im_student2" src="/wp-content/uploads/2022/11/graduated-1.png" alt="">
+						<img class="im_student2" src="/wp-content/uploads/2022/11/graduated-1.png" alt="Список ВУЗов Москвы для заказа диплома онлайн">
                     	<div class="asat__title2" style="font-weight:bold;">Список ВУЗов Москвы</div>
 					</a>
 				</div>

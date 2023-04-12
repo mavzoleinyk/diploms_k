@@ -18,7 +18,6 @@
 	do_action( 'lucida_before_page_container' ); ?>
 	<div class="entry-container">
 		<header class="entry-header">
-			<h2 class="entry-title"><?php the_title(); ?></h2>
 		</header><!-- .entry-header -->
 		<div class="entry-content">
 			<?php the_content(); ?>

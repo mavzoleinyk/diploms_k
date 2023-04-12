@@ -63,7 +63,7 @@
 </style>
 <div class="atec">
    <div class="container">
-      <div class="ates__title"><?php the_title(); ?></div>
+      <h1 class="ates__title"><?php the_title(); ?></h1>
       <div class="ccc" style="margin-bottom:50px;margin-top:50px">
          <?php if(function_exists('bcn_display'))
             {

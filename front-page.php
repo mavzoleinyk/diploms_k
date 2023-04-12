@@ -115,27 +115,27 @@ right:50px;
 
                 <div class="intro__group">
                     <div class="ingroup__icon">
-                        <img class="ingroup__img" src="/wp-content/uploads/2022/08/vector__ingroup1.png" alt="">
+                        <img class="ingroup__img" src="/wp-content/uploads/2022/08/vector__ingroup1.png" alt="Оригинальные бланки ГОЗНАК">
                         <div class="ingroup__text">Оригинальные бланки ГОЗНАК</div>
                     </div>
 
                     <div class="ingroup__icon">
-                        <img class="ingroup__img" src="/wp-content/uploads/2022/08/vector__ingroup2.png" alt="">
+                        <img class="ingroup__img" src="/wp-content/uploads/2022/08/vector__ingroup2.png" alt="Полное отсутствие предоплаты">
                         <div class="ingroup__text">Полное отсутствие предоплаты</div>
                     </div>
 
                     <div class="ingroup__icon">
-                        <img class="ingroup__img" src="/wp-content/uploads/2022/08/vector__ingroup3.png" alt="">
+                        <img class="ingroup__img" src="/wp-content/uploads/2022/08/vector__ingroup3.png" alt="Бесплатная курьерская доставка">
                         <div class="ingroup__text">Бесплатная курьерская доставка</div>
                     </div>
 
                     <div class="ingroup__icon">
-                        <img class="ingroup__img" src="/wp-content/uploads/2022/08/vector__ingroup4.png" alt="">
+                        <img class="ingroup__img" src="/wp-content/uploads/2022/08/vector__ingroup4.png" alt="Любой регион РФ">
                         <div class="ingroup__text">Любой регион РФ</div>
                     </div>
 
                     <div class="ingroup__icon">
-                        <img class="ingroup__img" src="/wp-content/uploads/2022/08/vector__ingroup5.png" alt="">
+                        <img class="ingroup__img" src="/wp-content/uploads/2022/08/vector__ingroup5.png" alt="Срок изготовления от 1 дня">
                         <div class="ingroup__text">Срок изготовления от 1 дня</div>
                     </div>
 
@@ -278,8 +278,7 @@ right:50px;
 
             <div class="atec__inner">
 				
-				<?php  echo do_shortcode( '[products limit="4"]' );
-				 ?>
+				<?php  echo do_shortcode( '[products limit="4"]' );?>
             
                 
             </div>
@@ -295,27 +294,27 @@ right:50px;
             <div class="dip__title">Дипломы по специальности</div>
             <div class="dip__inner">
                 <div class="dip__images">
-                    <a href="/vysshee-obrazovanie-diplom-povara/"><img src="/wp-content/uploads/2022/08/dip1.png" alt="" class="dip__img"></a>
+                    <a href="/vysshee-obrazovanie-diplom-povara/"><img src="/wp-content/uploads/2022/08/dip1.png" alt="Купить диплом повара" class="dip__img"></a>
 					<a href="/vysshee-obrazovanie-diplom-povara/"><div class="dip__text">Повар</div></a>
                 </div>
 
                 <div class="dip__images">
-					<a href="/diplom-yurista/"><img src="/wp-content/uploads/2022/08/dip2.png" alt="" class="dip__img"></a>
+					<a href="/diplom-yurista/"><img src="/wp-content/uploads/2022/08/dip2.png" alt="Купить диплом юриста" class="dip__img"></a>
 					<a href="/diplom-yurista/"><div class="dip__text">Юрист</div></a>
                 </div>
 
                 <div class="dip__images">
-					<a href="/diplom-elektrika/"><img src="/wp-content/uploads/2022/08/dip3.png" alt="" class="dip__img"></a>
+					<a href="/diplom-elektrika/"><img src="/wp-content/uploads/2022/08/dip3.png" alt="Купить диплом электрика" class="dip__img"></a>
 					<a href="/diplom-elektrika/"><div class="dip__text">Электрик</div></a>
                 </div>
 
                 <div class="dip__images">
-					<a href="/diplom-ekonomista-v-msk/"><img src="/wp-content/uploads/2022/08/dip4.png" alt="" class="dip__img"></a>
+					<a href="/diplom-ekonomista-v-msk/"><img src="/wp-content/uploads/2022/08/dip4.png" alt="Купить диплом экономиста" class="dip__img"></a>
 					<a href="/diplom-ekonomista-v-msk/"><div class="dip__text">Экономист</div></a>
                 </div>
 
                 <div class="dip__images">
-					<a href="/diplom-vizazhista/"><img src="/wp-content/uploads/2022/08/dip5.png" alt="" class="dip__img"></a>
+					<a href="/diplom-vizazhista/"><img src="/wp-content/uploads/2022/08/dip5.png" alt="Купить диплом визажиста" class="dip__img"></a>
 					<a href="/diplom-vizazhista/"><div class="dip__text">Визажист</div></a>
                 </div>
             </div>

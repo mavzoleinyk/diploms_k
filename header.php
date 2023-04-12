@@ -22,7 +22,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/cssnew/style.css">
-    <title>Купить диплом в Москве с доставкой по России</title>
 	<?php wp_head(); ?>
 <style>
 	#site-generator {
@@ -844,8 +843,8 @@ font-size:16px !important;
 						<a href="tel:84992297755 ">+7 (499) 229-77-55</a>
 					</div>
                     <div class="header__vector header__vector-top">
-                        <a href="whatsapp://send?phone=79523763899"><img src="/wp-content/uploads/2022/08/vector__whatsapp-e1669634401165.png" alt=""></a>
-                        <a href="https://t.me/DocumentovBot "><img src="/wp-content/uploads/2022/08/vector__telegram.png" alt=""></a>
+                        <a href="whatsapp://send?phone=79523763899"><img src="/wp-content/uploads/2022/08/vector__whatsapp-e1669634401165.png" alt="Заказать диплом с печатями онлайн в WhatsApp"></a>
+                        <a href="https://t.me/DocumentovBot "><img src="/wp-content/uploads/2022/08/vector__telegram.png" alt="Заказать диплом с печатями онлайн в Telegram"></a>
                     </div>
 					<div class="header__mmm">
 						<span>Электроная почта</span>
