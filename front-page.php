@@ -379,27 +379,27 @@ right:50px;
         <div class="container">
             <div class="vuz-row">
                 <div class="vuz-item">
-                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/rggu.jpg" alt=""></div>
+                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/rggu.jpg" alt="Купить диплом РГГУ"></div>
                     <div class="title">РГГУ</div>
                 </div>
                 <div class="vuz-item">
-                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/rudn.jpg" alt=""></div>
+                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/rudn.jpg" alt="Купить диплом РУДН"></div>
                     <div class="title">РУДН</div>
                 </div>
                 <div class="vuz-item">
-                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/misis.jpg" alt=""></div>
+                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/misis.jpg" alt="Купить диплом МГУ"></div>
                     <div class="title">МИСиС</div>
                 </div>
                 <div class="vuz-item">
-                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/mgtu.jpg" alt=""></div>
+                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/mgtu.jpg" alt="Купить диплом МГТУ"></div>
                     <div class="title">МГТУ</div>
                 </div>
                 <div class="vuz-item">
-                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/madi.jpg" alt=""></div>
+                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/madi.jpg" alt="Купить диплом МАДИ"></div>
                     <div class="title">МАДИ</div>
                 </div>
                 <div class="vuz-item">
-                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/mgu.jpg" alt=""></div>
+                    <div class="vuz-img"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/mgu.jpg" alt="Купить диплом МГУ"></div>
                     <div class="title">МГУ</div>
                 </div>
             </div>
@@ -411,16 +411,16 @@ right:50px;
             <div class="adv__inner">  
                 <div class="adv-item">
                     <div class="adv-img">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/adv-icon-1.png" alt="">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/adv-icon-1.png" alt="Мы изготавливаем документы на бланке ГОЗНАК">
                     </div>
                     <div class="title">Мы изготавливаем документы на бланке ГОЗНАК</div>
                 </div> 
                 <div class="adv-item">
-                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/adv-icon-2.png" alt="">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/adv-icon-2.png" alt="Не требуем предоплату">
                     <div class="title">Не требуем предоплату. Полная оплата – только по факту получения документа</div>
                 </div>  
                 <div class="adv-item">
-                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/adv-icon-3.png" alt="">
+                    <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/adv-icon-3.png" alt="Действует доставка по территории России">
                     <div class="title">Действует доставка по территории России</div>
                 </div>  
             </div>
@@ -432,19 +432,19 @@ right:50px;
             <div class="fishka__row">
                 <div class="fishka-item">
                     <div class="fishka-img">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/fishka-1.png" alt="">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/fishka-1.png" alt="В чем фишка заказа диплома онлайн">
                     </div>
                     Дипломы учебных заведений, которые были лишены государственной аккредитации. ВУЗы, колледжи, техникумы и другие учебные заведения без аккредитации не попадают в базу ФС по надзору в сфере образования и науки
                 </div>
                 <div class="fishka-item">
                     <div class="fishka-img">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/fishka-2.png" alt="">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/fishka-2.png" alt="В чем фишка заказа диплома онлайн">
                     </div>
                     Дипломы ликвидированных учебных заведений. Это затруднит проверку диплома на подлинность. Работодатель не сможет отправить запрос на подтверждение диплома в то место, где он был выдан
                 </div>
                 <div class="fishka-item">
                     <div class="fishka-img">
-                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/fishka-3.png" alt="">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/fishka-3.png" alt="В чем фишка заказа диплома онлайн">
                     </div>
                     Большая база по тем учебным заведениям, которые потеряли свои архивы. Университеты, колледжи и техникумы с потерянными архивами не смогут предоставить работодателю нужную информацию на его запрос
                 </div>
@@ -573,7 +573,7 @@ right:50px;
     <div class="hed">
         <div class="container">
             <div class="hed__inner">
-                <div class="hed__title">Купить диплом в Москве с доставкой</div>
+                <h1 class="hed__title"><?php the_title(); ?></h1>
                 <div class="hed__text">
                 Документы об образовании могут понадобиться в любой момент. Но иногда возникают такие ситуации, из которых Приобретение
                 дипломов в МСК гарантии и низкие ценыкажется, нет ни одного выхода. Хотя, как известно, вопросов без решений никогда не

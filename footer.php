@@ -170,28 +170,28 @@ do_action( 'lucida_after_content' );
 	<div class="container">
 		<div class="section-delivery_row">
 			<div class="section-delivery-item">
-				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-1.jpg" alt="">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-1.jpg" alt="доставка TOPDELIVERY">
 			</div>
 			<div class="section-delivery-item">
-				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-2.jpg" alt="">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-2.jpg" alt="доставка Почта России">
 			</div>
 			<div class="section-delivery-item">
-				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-3.jpg" alt="">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-3.jpg" alt="доставка PONY EXPRESS">
 			</div>
 			<div class="section-delivery-item">
-				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-4.jpg" alt="">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-4.jpg" alt="доставка MaxiPost">
 			</div>
 			<div class="section-delivery-item">
-				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-5.jpg" alt="">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-5.jpg" alt="доставка Гермес Експресс">
 			</div>
 			<div class="section-delivery-item">
-				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-6.jpg" alt="">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-6.jpg" alt="доставка DPD">
 			</div>
 			<div class="section-delivery-item">
-				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-7.jpg" alt="">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-7.jpg" alt="доставка CDEK">
 			</div>
 			<div class="section-delivery-item">
-				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-8.jpg" alt="">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/delivery/delivery-pic-8.jpg" alt="доставка DHL">
 			</div>
 		</div>
 	</div>
